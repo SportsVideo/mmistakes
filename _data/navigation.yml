@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "SportsAction"
+    url: /SportsAction/
+  - title: "SportsMOT"
+    url: /SportsMOT/
+  - title: "SportsHHI"
+    url: /SportsHHI/
+  - title: "SportsGrounding"
+    url: /SportsGrounding/
+  - title: "SportsShot"
+    url: /SportsShot/
